@@ -6,3 +6,7 @@
 5. JavaPrecedence
 6. KeywordsAndExpressions
 7. StatementsAndIndentation
+8. IfThenElse
+9. Methods
+10. Method Overloading
+11. Switch Statement
